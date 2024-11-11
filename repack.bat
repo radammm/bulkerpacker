@@ -7,8 +7,7 @@ cls
 :: Display "Coded by NunYa" message before starting the process
 echo.
 echo ============================
-echo     Coded by NunYa
-echo	 
+echo     Coded by NunYa 
 echo ============================
 echo.
 pause
