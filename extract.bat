@@ -11,8 +11,8 @@ set UNC_PATH=\\TRUENAS\Data\Emulation\Roms\xbox\Myrient
 set DEST_DIR=\\TRUENAS\Data\Emulation\Roms\xbox\Myrient\extracted
 
 :: Set Samba share credentials
-set USERNAME=adammm
-set PASSWORD=280102
+set USERNAME=username
+set PASSWORD=password
 set DRIVE_LETTER=Z:
 
 :: Check if extract-xiso.exe exists
